@@ -4,7 +4,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
 import CharacterDetails from './components/CharacterDetails';
-import { CharacterProvider } from './contexts/CharactersContext'; // Assuming you have a CharacterProvider
+import { CharacterProvider } from './contexts/CharactersContext';
 
 function App() {
   return (

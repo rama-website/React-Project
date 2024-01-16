@@ -14,7 +14,7 @@ const CharacterDetails = () => {
           throw new Error('Failed to fetch character details');
         }
         const data = await response.json();
-        console.log('API Response:', data); // Add this line for additional logging
+        
         setCharacter(data);
       } catch (error) {
         console.error('Error fetching character details:', error);
