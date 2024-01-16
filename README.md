@@ -1,3 +1,24 @@
+# Game of Thrones Characters App
+
+This React application displays information about characters from the Game of Thrones series. The app allows users to navigate through a list of characters, view details about each character, and provides pagination for an enhanced user experience.
+
+
+
+## Features
+
+- Multiple pages with client-side routing for a seamless user experience.
+- Character details page to display specific information about each character.
+- Pagination for easy navigation through the list of characters.
+- Utilizes the Context API for efficient state management.
+- Responsive design for a better user experience on different devices.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/game-of-thrones-app.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
